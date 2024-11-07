@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mdjamikhan.mdjamikhan" alt="visitor badge" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aryansingh1220" alt="visitor badge" />
 
 <h1 style="text-align: center;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Aryan+Singh!;Welcome+to+my+Profile;Coder;I+am+a+software+developer;Frontend+Developer;Full+Stack+Developer;Web+Developer;Backend+Developer" alt="typing animation" />
