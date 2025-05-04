@@ -9,7 +9,6 @@ Hi, I’m a software engineer with a strong foundation in web development and a 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [Aryan Singh](https://aryan-portfolio-01.netlify.app/)
 *   ✉️  You can contact me at [aryansinghup6562@gmail.com](mailto:aryansinghup6562@gmail.com)
-*   🚀  I'm currently working on [Outlier](http://app.outlier.ai/)
 *   🧠  I'm learning Nextjs and PHP
 *   🤝  I'm open to collaborating on Frontend, Backend, and Generative AI projects
 *   ⚡  I am Batman.
